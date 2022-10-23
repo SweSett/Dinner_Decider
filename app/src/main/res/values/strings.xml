@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dinner Decider</string>
+    <string name="title">Hamburger</string>
+    <string name="btnDecide">DECIDE!</string>
+    <string name="btnAddFood">Add Food</string>
+    <string name="addNewFoodHint">add new food...</string>
+</resources>
